@@ -15,6 +15,16 @@ Before playing MisPace, you need to install Java. Follow these steps:
 2. Extract the files from the downloaded archive.
 3. Double-click on `MisPace.exe` to start the game.
 
+**Note:** You might encounter a Windows SmartScreen warning when launching the game:
+
+- **Windows protected your PC**
+- **Microsoft Defender SmartScreen prevented an unrecognized app from starting. Running this app might put your PC at risk.**
+
+**App:** MisPace.exe  
+**Publisher:** Unknown publisher  
+
+To proceed, click on **More info** and then **Run anyway** to start the game.
+
 ## Gameplay
 
 - Use arrow keys to move the spaceship.
@@ -22,3 +32,4 @@ Before playing MisPace, you need to install Java. Follow these steps:
 - Avoid enemy projectiles to stay alive.
 - Shoot all aliens before they reach Earth to advance to the next level.
 - Track your score on the leaderboard.
+
